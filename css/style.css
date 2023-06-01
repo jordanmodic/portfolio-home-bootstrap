@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(270deg, #FFFFFF 0%, #B3BBFF 0%, #DEF3FF 99.99%, #CCECFF 100%);
+}
+a.nav-item {
+    text-decoration: none;
+    color: #747070;
+    font-family: 'Aleo', serif;
+    font-size: 30px;
+    margin-right: 1em;
+}
