@@ -4,10 +4,88 @@
 body {
     background: linear-gradient(270deg, #FFFFFF 0%, #B3BBFF 0%, #DEF3FF 99.99%, #CCECFF 100%);
 }
+h1 {
+    font-family: 'Aleo', serif;
+    font-size: 64px;
+    font-weight: 400;
+}
+h2 {
+    font-family: 'Aleo', serif;
+    font-size: 56px;
+    font-weight: 400; 
+}
+h3 {
+    font-family: 'Aleo', serif;
+    font-size: 36px;
+    font-weight: 400; 
+}
+h4 {
+    font-family: 'Aleo', serif;
+    font-size: 24px;
+    font-weight: 400; 
+}
+h5 {
+    font-family: 'Aleo', serif;
+    font-size: 20px;
+    font-weight: 400; 
+}
+p.st1 {
+    font-family:'Noto Sans', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+p.st2 {
+    font-family:'Noto Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+p.st3 {
+    font-family:'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+p {
+    font-family:'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
 a.nav-item {
     text-decoration: none;
     color: #747070;
     font-family: 'Aleo', serif;
     font-size: 30px;
     margin-right: 1em;
+}
+.about-me {
+    margin-top: 20em;
+}
+.about-visual {
+    border: solid #FFD5C4;
+    border-width: 3px;
+}
+.about-title {
+    border: solid #FFD5C4;
+    border-width: 3px;
+    background: linear-gradient(270deg, #E6E8FF 2.08%, #E6E8FF 38.02%, #E6F6FF 68.23%, #E6F6FF 95.31%);
+    text-align: left;
+    padding: 1em;
+    width: 70%;
+    position: relative;
+    z-index: 1;
+    box-shadow: 6px 6px 6px rgba(209, 214, 255, 0.8);
+}
+.about-description {
+    border: solid #FFD5C4;
+    border-width: 3px;
+    background: linear-gradient(270deg, rgba(230, 232, 255, 0.9) 2.08%, rgba(230, 232, 255, 0.8) 38.02%, rgba(230, 246, 255, 0.8) 68.23%, rgba(230, 246, 255, 0.8) 95.31%);
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 3em;
+    margin-top: -2em;
+    z-index: -1;
+    width: 100%;
 }
