@@ -135,4 +135,28 @@ a.nav-item {
     margin-top: -2em;
     z-index: -1;
 }
+.case-study-title-2 {
+    border: solid #FFD5C4;
+    border-width: 3px;
+    background: linear-gradient(270deg, #E6E8FF 2.08%, #E6E8FF 38.02%, #E6F6FF 68.23%, #E6F6FF 95.31%);
+    width: 13em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    position: relative;
+    z-index: 1;
 
+}
+.case-study-description-2 {
+    border: solid #FFD5C4;
+    border-width: 3px;
+    background: linear-gradient(270deg, rgba(230, 232, 255, 0.9) 2.08%, rgba(230, 232, 255, 0.8) 38.02%, rgba(230, 246, 255, 0.8) 68.23%, rgba(230, 246, 255, 0.8) 95.31%);
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 3em;
+    margin-top: -2em;
+    z-index: -1;
+}
