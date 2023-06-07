@@ -160,3 +160,12 @@ a.nav-item {
     margin-top: -2em;
     z-index: -1;
 }
+li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+.skills-roles {
+    text-align: center;
+}
